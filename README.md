@@ -49,8 +49,8 @@ endmodule
 ```
 
 
-Developed by:Prasanth T
-RegisterNumber:24900510
+Developed by:ARUL KUMARAN S A
+RegisterNumber:212224040030
 
 */
 
