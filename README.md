@@ -48,10 +48,10 @@ end
 endmodule
 ```
 
-
-Developed by:ARUL KUMARAN S A
-RegisterNumber:212224040030
-
+```
+Developed by: MARIMUTHU MATHAVAN
+RegisterNumber:212224230153
+```
 */
 
 **RTL LOGIC FOR SISO Shift Register**
